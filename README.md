@@ -1,12 +1,12 @@
 # Employee-Attrition-Predictor
 This repository contains a Python script (employee_attrition_prediction.py) that predicts employee attrition using machine learning techniques. The script utilizes a dataset containing various attributes related to employees such as demographics, job roles, satisfaction levels, and performance ratings. The goal is to build a predictive model to identify factors influencing employee attrition and provide insights for retention strategies.
 Libraries Used :
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Plotnine
+1. Pandas
+2. NumPy
+3. Matplotlib
+4. Seaborn
+5. Scikit-learn
+6. Plotnine
 
 How to Run:
 1. Clone this repository to your local machine.
